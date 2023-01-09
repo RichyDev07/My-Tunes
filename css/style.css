@@ -1,0 +1,229 @@
+* {
+    margin: 0;
+  }
+
+.nav {
+  display: block;
+  padding: 20px 40px 20px 10px;
+  overflow: hidden;
+  background-color: rgba(51, 51, 51, 0.959);
+}
+
+.nav a { 
+  color: #f2f2f2;
+  padding: 20px 40px 20px 10px;
+  text-decoration: none;
+  font-size: 25px;
+}
+
+.nav a:hover {
+  background-color: #5e5e64e5;
+  color: rgba(0, 0, 0, 0.164);
+}
+
+.nav a.active {
+  background-color: #04AA6D;
+  color: white;
+
+}
+
+.nav-items { 
+  display: inline;
+}
+
+.container-with-image {
+  background-image: url("https://owusu-desmond.github.io/mytunes-website/showcase.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 16cm;
+  width: 100%;
+  color: white;
+  text-align: center;
+    }
+    h1{
+      font-size: 80px;
+      font-weight: bold ;
+      margin-bottom: 1cm;
+    }
+    h2{
+      margin-bottom: 1cm;
+      font-size: 30px;
+      font-weight: bold;
+    }
+    .music-container{
+        background-color: rgb(53, 49, 49);
+    }
+  h3{
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 30px;
+    font-weight: bold;
+  }
+    h4{
+        font-size: 60px;
+        text-align: center;
+        color: white;
+    }
+    h5{
+         text-align: center;
+          font-size: 50px;
+          padding: 20px 40px 20px 10px;
+          display: block;
+          font-weight: bold;
+          margin-block-start: 1.67;
+          margin-block-end: 1.67;
+          color: white;
+          margin-left: 10%;
+          margin-right: 10%;
+
+    }
+    .Orange-Music{
+      text-align: center;
+      font-size: 30px;
+      padding: 20px 40px 20px 10px;
+      color: white;
+      margin-left: 5%;
+      margin-right: 8%;
+    }
+     .Stream-over{
+         text-align: center;
+         font-size: 30px;
+         padding: 20px 40px 20px 10px;
+         color: white;
+         margin-left: 5%;
+         margin-right: 8%;
+
+         
+    }
+      .Start-Trail-btn{
+        background-color: rgba(255, 0, 0, 0.432);
+        display: flex;
+        font-size: 20px;
+        padding: 25px 40px 20px 20px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .now{
+      text-decoration: none;
+      color: white;
+    }
+     .with-over{
+        font-size: 25px;
+        margin-left: 10%;
+        margin-right: 10%;
+        padding: 20px 40px 20px 10px;
+
+    }
+    .movie{
+      padding: 20px 40px 20px 10px;
+      font-size: 30px;
+      font-weight: bold;
+      text-align: center;
+    }
+    .button{
+      background-color:rgba(0, 0, 205, 0.904);
+      display: flex;
+      font-size: 15px;
+      padding: 15px 15px ;
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom: 1cm;
+    }
+    .read{
+      font-size: 20px;
+      text-decoration: none;
+      text-align: center;
+      color: white;
+    }
+    .src{
+      display: flex;
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom: 1cm;
+    }
+    .entertainment-container{
+      background-image: url(https://owusu-desmond.github.io/mytunes-website/images/intertainment-backg.jpg);
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      background-size: cover;
+      color: white;
+      height: 10cm;
+      background-position: center;
+    }
+    .lorem{
+     font-size: 25px;
+     display: flex;
+     text-align: left;
+    }
+  
+    .world{
+      text-align: center;
+      font-size: 22px;
+      line-height: 1cm;
+      margin-bottom: 1cm;
+    }
+    .lorem{
+    
+      text-align: left;
+      font-size: 30px;
+      margin-bottom: 0.5cm;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      
+    }
+    .gift{
+      text-align: center;
+      font-size: 50px;
+      font-weight: bold;
+
+    }
+    .img {
+      position: relative;
+      height: 10cm;
+      width: 90%;
+      margin-left: 8%;
+    } 
+.already{
+    text-align: left;
+    font-size: 30px;
+    margin-bottom: 1cm;
+
+}
+   .top{
+      font-size: 30px;
+      text-decoration: none;
+      display: flex;
+      margin-bottom: 1cm;
+
+    
+   }
+   .section6{
+      background-color: rgba(0, 0, 0, 0.863);
+      display: flex;
+      padding: 8px 8px;
+  
+    
+   }
+   .table{
+      color: white;
+      font-size: 20px;
+      width: 70%;
+      height: 10cm;
+      margin-left: 8%;
+      margin-right: 8%;
+      padding: 8px 8px;
+   }
+   .th{
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration-line: underline;
+   }
+
+    
+    
+    
+
+  

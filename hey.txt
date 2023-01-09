@@ -1,2 +1,0 @@
-This is my hey text file.
-delete this file.

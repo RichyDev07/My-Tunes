@@ -1,3 +1,0 @@
-This is my hello text file.
-
-This file will be deleted later
